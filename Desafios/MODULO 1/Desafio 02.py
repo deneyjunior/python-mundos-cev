@@ -1,0 +1,6 @@
+print('='*5, "Desafio Python 02",'='*5)
+dia = input('Qual é o dia em que você nasceu?')
+mes = input('Qual é o mês em que você nasceu?')
+ano = input('Qual é o ano em que você nasceu?')
+print('Você nasceu em', dia, "do", mes, 'de', ano, '!', 'Certo?')
+print('='*5, "Desafio Python 02",'='*5)

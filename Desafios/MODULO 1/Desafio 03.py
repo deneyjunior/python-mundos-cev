@@ -1,0 +1,6 @@
+print('='*5, "Desafio Python 03",'='*5)
+num1 = input('Qual é o primeiro número?')
+num2 = input('Qual é o segundo número?')
+soma = int(num1) + int(num2)
+print('A soma do numero é', soma, 'Certo?')
+print('='*5, "Desafio Python 03",'='*5)
